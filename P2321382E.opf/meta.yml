@@ -1,0 +1,333 @@
+id: P2321382E
+initial_creation_type: input
+source_metadata:
+  title: Aspiration Prayers
+  language: es
+  description: 'A series of prayers of aspiration (Skt. praṇidhāna; Tib. smon lam)
+    and works from related genres, including prayers for the spread of the teachings
+    (bstan rgyas smon lam):'
+  volume:
+    caca932ae0774c59858ee91563019593:
+      title: 'Fostering Recollection to Dispel the Torment of Deluded Perception:
+        An Aspiration for the Bardos'
+      parent: Bardos
+    863fd80e53ad4beea9a799183037c20a:
+      title: 'The Single Oceanic Wisdom: An Aspiration to Recognise the Bardos'
+      parent: Bardos
+    a57fa18c12e44ebfb94c9a8c0ce6db43:
+      title: Maitreya's Aspiration
+      parent: Bodhisattva Aspirations
+    01a633b714fa4bfa90d76a892f07527a:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      parent: Bodhisattva Aspirations
+    0e28e4524028416a8e7ddd83e639222f:
+      title: 'The Excellent Path to Enlightenment: An Aspiration Towards the Mahāyāna
+        Mind Training'
+      parent: Bodhisattva Aspirations
+    cfb5d8d26a614f9cb1548cd1e60d9c52:
+      title: 'The Heart of the Mahāyāna Path: A Bodhisattva’s Prayer of Aspiration'
+      parent: Bodhisattva Aspirations
+    0f6228dc95b24647bc63c386c75877c0:
+      title: 'The Finest Jewel: An Aspiration Prayer of Mahāyāna Mind Training'
+      parent: Bodhisattva Aspirations
+    66b40e35bc0942faa80f143c6dd162f7:
+      title: Prayer of Aspiration Incorporating the Eight Thoughts of Great Beings
+        Who Follow the Way of the Mahāyāna
+      parent: Bodhisattva Aspirations
+    596cf24125dc49ce89f278d5a9a1895f:
+      title: Bodhicitta Aspiration
+      parent: Bodhisattva Aspirations
+    fe0f4f3f5e3e4702b37ed1068bec7006:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      parent: Bodhisattva Aspirations
+    680ee156fee141cfa605dbe916776912:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      parent: Commentaries
+    b5d1cc2ea6e3427c9377d5df06b2d45e:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      parent: Copper-Coloured Mountain
+    ddd309ddc0a446baa59c15946164f36b:
+      title: Threefold Aspiration for Rebirth in Zangdok Palri
+      parent: Copper-Coloured Mountain
+    67b037ea7a5642cc82959098feca5a0a:
+      title: 'A Joyful Chariot for the Fortunate: An Aspiration to Travel to the Copper-Coloured
+        Mountain of Glory'
+      parent: Copper-Coloured Mountain
+    2ad912e9394546a2b1f7523e8c1d990f:
+      title: A Prayer of Aspiration for the Mountain of Glory
+      parent: Copper-Coloured Mountain
+    cf4ddd7ce47646adb1ac6fc0dfe15a06:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      parent: Copper-Coloured Mountain
+    a3e73c527675466c8063e42d9e9f17ca:
+      title: 'The Secret Path of Wisdom: A Prayer of Aspiration for the Mountain of
+        Glory'
+      parent: Copper-Coloured Mountain
+    c51616d2f1fc48f4bc3f6cc8ed820775:
+      title: 'The Song of Devotion: Verses of Aspiration for the Fulfilment of the
+        Enlightened Vision of Khenchen Jigme Phuntsok, the Reincarnation of Terton
+        Lerab Lingpa'
+      parent: Devotion
+    d8e43f5974a94dab96ff4d96e60a72ba:
+      title: An Aspiration
+      parent: Dzogchen
+    6e9c83e683574c86a74e19755d8ddc4a:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      parent: Dzogchen
+    27a1fa42fc874236ae86f2dd316880b9:
+      title: 'Self-Radiance of Indestructible Awareness and Emptiness: An Aspiration
+        towards the Meaning of the Indivisible Ground, Path and Fruition of the Great
+        Perfection Mañjuśrī'
+      parent: Dzogchen
+    a705bed78a264851b16eda0ba993cadf:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      parent: Dzogchen
+    493f031a2f38400eb1747bb9f9afde32:
+      title: Prayer of the View, Meditation and Conduct
+      parent: Dzogchen
+    3efa91fd0bde40a7b2040e0c0997a365:
+      title: Profound Prayer of Aspiration
+      parent: Dzogchen
+    acf98700dc614a9286e935cb2441773c:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      parent: General
+    e99a592f68a945e7824ab97df098c7b5:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      parent: General
+    36195e9d43df47a6b0f80dd274471866:
+      title: 'The Vidyādharas'' Words of Truth: An Aspiration Connected with the Stages
+        of the Path of the Three Roots, from the Heart Essence of the Vast Expanse'
+      parent: General
+    1ab9e5a969a74e4493bbe3f1bc1cb3ed:
+      title: 'Wisdom''s Melody: An Aspiration to Realize Madhyamaka, Mahāmudrā, and
+        Mahā Ati'
+      parent: General
+    6621be55bb124a80b148c5dcf6c1dcd3:
+      title: 'The Truthful Words of a Sage: An Aspiration Prayer from the Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī'
+      parent: General
+    0adad6b5b7df4b1da865384681f46a2c:
+      title: Aspirations in Accordance with the Dharma
+      parent: General
+    39c4180a95e7415a8cd55eb8cc6d430d:
+      title: Aspiration at the Moment of Death
+      parent: General
+    8743b887bd6e45c2b0ab49b05ad4d320:
+      title: Aspiration Prayer of the Ultimate Definitive Meaning
+      parent: General
+    e7564e08215b427c96b7c32bcbf46ed1:
+      title: An Aspiration Prayer
+      parent: General
+    85034e7bdf894c769c1ed6c7e8cf386b:
+      title: Aspiration for All Lives to Come
+      parent: General
+    8bd8ff40ce3b4e1a8120cdf1655803fc:
+      title: Aspiration Written in Sadness During the Water Snake Year
+      parent: General
+    0902d2c194774093bc6470dae8a47271:
+      title: Aspiration Written on the Occasion of Princess Sangdé’s Passing in Sikkim
+      parent: General
+    958fbfdd2d2c42378008e919c8784abf:
+      title: Aspiration to Accomplish Every Aim
+      parent: General
+    671c889d3c20453f923b755bc7bbfac8:
+      title: Aspiration to Be Reborn at the Vajra Seat (Bodhgayā), Akaniṣṭha on Earth
+      parent: General
+    c5f08f1b74164f18b82f2c999281245a:
+      title: Prayer of Aspiration
+      parent: General
+    b9476b64d1be49e691d34ebb70263c32:
+      title: 'The Jewelled Rosary: An Aspiration Toward Longed-for Aims'
+      parent: General
+    900e432d74a544508d87ecf11646306e:
+      title: 'The Swift Fulfilment of Wishes: A Prayer of Aspiration'
+      parent: General
+    dc39fc462106493cb03c55519bddd04b:
+      title: An Aspiration for the Final Age
+      parent: General
+    e013b0e96f414e13bfe4580d7ff45b26:
+      title: 'Entering the City of Omniscience: An Aspiration Prayer for Actualizing
+        Words of Truth'
+      parent: General
+    c9f8547809d94621a842125558e75c08:
+      title: Aspiration for Future Lives
+      parent: General
+    67c7ed2e9e1244c28caa4e798166a111:
+      title: Aspiration to be Cared For in Every Lifetime
+      parent: General
+    99bfa70cf2f44d418f6ec44b038a1e99:
+      title: 'The Sun of Samantabhadra’s Realm: The Quintessence of Oceanic Prayers
+        of Aspiration'
+      parent: General
+    d9edec95d07b4d09819f666d16096f17:
+      title: An Aspiration to Travel to the Hidden Land of Pemokö
+      parent: General
+    cddba9bbc4014c47a92a8efccb113dbc:
+      title: 'The Magical Lasso: A Prayer of Aspiration to Accomplish Khecara'
+      parent: General
+    2c3fdc74ed8f4ae892b7795a3c516444:
+      title: The Secret Vajra Knot
+      parent: General
+    f4ee1867c5b3417bbb2af8b5d1298ebf:
+      title: Aspiration for the Four Activities
+      parent: General
+    d3f1757ae96f473285cf155b077137bc:
+      title: The Source of Beings' Happiness
+      parent: General
+    5e76e4e11c16439d8b9231e0c4ce673f:
+      title: The Thirty Aspirations
+      parent: General
+    0e26914a85614943a695cbf69cdb32bf:
+      title: Yeshe Tsogyal's Prayer
+      parent: General
+    6a60facbc24948b79f95d0e0601a37bc:
+      title: Aspiration Prayer from Tārā Sādhana
+      parent: General
+    344985dab9944797916dfd27dd10614d:
+      title: Verses of Aspiration to Recite While Prostrating
+      parent: General
+    94f11ca962514997aa937b85ebac392f:
+      title: A Prayer of Aspiration
+      parent: General
+    8d3d80cabfff4058a00ff3fd3db7b72a:
+      title: Aspiration Prayer
+      parent: General
+    afebb9c941b44eaaa68c0183a0d16e1f:
+      title: Aspiration for the Stages of the Path
+      parent: Lamrim
+    982f80bd9b914fb5a3438b92742e13b6:
+      title: The Indestructible Vajra Garland, An Aspiration Prayer for the Lives
+        of the Supreme Holders of the Non-Sectarian Teachings
+      parent: Longevity
+    ed61277090f94c0392ad1f2daa5ac7b2:
+      title: Concise Middle Way Aspiration
+      parent: Madhyamaka
+    be6a3f6ca1924365aac5c8a879cb0c95:
+      title: Middle Way Aspiration
+      parent: Madhyamaka
+    b4d9e0c72ddc4947a86d1798a3439a80:
+      title: Aspiration of the Mahāmudrā of Definitive Meaning
+      parent: Mahāmudrā
+    23929a22a16243bbbcc84a2bebc3d398:
+      title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+        Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times
+        In the Form of an Aspiration Prayer'
+      parent: Peace and Welfare
+    143f8e60f5184ed5970e57ba8e809589:
+      title: Aspiration for the Country’s Welfare
+      parent: Peace and Welfare
+    0430e798ec5d42a9b19b0484218e8e70:
+      title: The Prayer of the Words of Truth
+      parent: Peace and Welfare
+    9f4d0ba32e0c4968ac76a3264b2f00a6:
+      title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+      parent: Peace and Welfare
+    04d5d6439369485daee4d87dc9078aa6:
+      title: Prayer for Peace and Stability in Tibet
+      parent: Peace and Welfare
+    49f5b3637d464a8aa70f9c2d3b39a414:
+      title: 'Burgeoning Joy and Happiness: An Aspiration for the Welfare of the Great
+        Hidden Land of Sikkim'
+      parent: Peace and Welfare
+    d781bbcc263c4c98b0e1d1c4f4bf25a4:
+      title: 'Declaration of the Power of Truth: A Prayer to Overcome Invading Forces'
+      parent: Peace and Welfare
+    e4352b784fc6404eb5171087a4eaa11c:
+      title: 'The Fulfilment of All Aims and Wishes: An Aspiration to Request the
+        Safeguarding of Happiness in Tibet'
+      parent: Peace and Welfare
+    88f4ad7954c04e07aee3a7ae2b2bd628:
+      title: Prayer for Dispelling Famine
+      parent: Peace and Welfare
+    9c28c8940aa444bb96ba30f23d7bef4c:
+      title: Prayer of Truthful Words to Pacify the Fear of War
+      parent: Peace and Welfare
+    b5f849f05da247219d4bf7612eb0e140:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      parent: Peace and Welfare
+    1da41a064ee04c8fb8378e792ae8dd25:
+      title: 'The Jewelled Garland: An Aspiration for the Spread of the Teachings
+        of the Omniscient Father and Son, Masters of the Teachings of the Ancient
+        Translations'
+      parent: Prayers for the Spread of the Teachings
+    0648f98d385b408aa27b1333d4d8f677:
+      title: Prayer for the Future of the Dharma
+      parent: Prayers for the Spread of the Teachings
+    840068a8a32248678f8ef6e621c17a83:
+      title: Aspiration Prayer for the Flourishing of the Jonang Teachings
+      parent: Prayers for the Spread of the Teachings
+    39a327d8410a4de695c2c787203b9254:
+      title: 'The Sage''s Harmonious Song of Truth: A Prayer for the Flourishing of
+        the Non-Sectarian Teachings of the Buddha'
+      parent: Prayers for the Spread of the Teachings
+    01d2657526a848dc85403c771cea29c5:
+      title: 'All-Pervading Auspiciousness: An Aspiration for the Spread of the Teachings
+        of the Eight Great Chariots of the Practice Lineage'
+      parent: Prayers for the Spread of the Teachings
+    f83400aba8f8421f9dfaf2b32ce5d8df:
+      title: Aspiration for the Spread of the Guhyagarbha Teachings
+      parent: Prayers for the Spread of the Teachings
+    e723201a80ce4d8da2054888b4c5c456:
+      title: Aspiration for the Spread of the Teachings
+      parent: Prayers for the Spread of the Teachings
+    da43ed145adc4444af9f7f209ecf8427:
+      title: 'Blazing Splendour of Good Fortune: A Prayer for the Spread of the Teachings
+        of the Katok Tradition'
+      parent: Prayers for the Spread of the Teachings
+    bd056c740cca42c5937d3ce808091771:
+      title: 'Introduction to the Buddha’s Words: A Praise and Aspiration Related
+        to the Words of the Victorious One'
+      parent: Prayers for the Spread of the Teachings
+    399c2043d58f43b3b7ca4b1baa4677e6:
+      title: 'The Sage''s Powerful Words of Truth: A Prayer for the Spread of the
+        Omniscient Buddha''s Teachings'
+      parent: Prayers for the Spread of the Teachings
+    41079ff14f6a4533acda183a70acf055:
+      title: The Last Testament of Katok Dampa Deshek
+      parent: Prayers for the Spread of the Teachings
+    76be5ad3c4a34b48a2bbdee7ac54bdff:
+      title: Prayer of Aspiration for the Buddhist Teachings to Flourish in Taiwan
+      parent: Prayers for the Spread of the Teachings
+    3e6d2759af1e4b5f8efef64fb66f505f:
+      title: Aspiration for the Spread of the Teachings of the Eight Chariots of the
+        Practice Lineage
+      parent: Prayers for the Spread of the Teachings
+    ca9d2866203d480393b81c79545c6318:
+      title: Clouds of Offerings to Delight the Victorious Ones – An Aspiration Prayer
+        for the Spread of the Teachings of the Lord of Siddhas, Dzogchen Rinpoche
+      parent: Prayers for the Spread of the Teachings
+    6b309aa132f94496b466296d84fff8e9:
+      title: 'Words of Truth: An Aspiration for the Spread of the Noble Gendenpa Tradition'
+      parent: Prayers for the Spread of the Teachings
+    c6ad9dbb0c164477b2e86a814b9db4f7:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      parent: Prayers for the Spread of the Teachings
+    eac9e462407a433787f53777107a9429:
+      title: Prayer for the Flourishing of the Teachings
+      parent: Prayers for the Spread of the Teachings
+    2fe78135314e48b991e5aefbc3e684ea:
+      title: A Prayer for the Spread of Kyabje Dilgo Khyentse Rinpoche’s Termas
+      parent: Prayers for the Spread of the Teachings
+    083d7403defd4f8a954c695bde9f75f0:
+      title: Prayer for the Flourishing of the Dzogchen Teachings of Sogyal Rinpoche,
+        the incarnation of Lerab Lingpa
+      parent: Prayers for the Spread of the Teachings
+    e64742c56e8f48f6a20b4de108f95819:
+      title: A Brief Method for Reciting Samantabhadra's Prayer of Good Actions
+      parent: Recitation Guides
+    cd4ff7533e4c49f1ba477e67beaa5213:
+      title: A Prayer for Translators
+      parent: Translation
+    c707c383f7ad49e4b062dbb5c6061290:
+      title: An Aspirational Prayer to Behold the Beautiful Face of Khecharī
+      parent: Vajrayoginī
+created_at: '2022-03-01T02:50:17.920788'
+last_modified_at: '2022-03-01T02:50:17.920790'
